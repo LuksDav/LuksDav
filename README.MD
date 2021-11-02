@@ -16,6 +16,7 @@ Me chamo Lucas David, tenho 21 anos, sou do interior de São Paulo e estou me fo
   <img align="center" alt="Luks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luks-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Luks-Psd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
+  <img align="center" alt="Luks-Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"> 
 
   
    ![Snake animation](https://github.com/LuksDav/LuksDav/blob/output/github-contribution-grid-snake.svg)
