@@ -1,5 +1,7 @@
 ## Seja muito bem vindo ao meu perfil!
 
+Me chamo Lucas David, tenho 21 anos, sou do interior de São Paulo e estou me formando em Sistemas para Internet. Sou um amante de design que se apaixou por Front-end!💜 
+
  <div>
   <a href="https://github.com/LuksDav">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuksDav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
