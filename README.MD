@@ -1,6 +1,6 @@
 ## Seja muito bem vindo ao meu perfil!
 
-Me chamo Lucas David, tenho 21 anos, sou do interior de São Paulo e estou me formando em Sistemas para Internet. Sou um amante de design que se apaixou por Front-end!💜 
+Me chamo Lucas David, tenho 21 anos, sou do interior de São Paulo e estou me formando em Sistemas para Internet. Sou um amante de design que se apaixonou por Front-end!💜 
 
  <div>
   <a href="https://github.com/LuksDav">
