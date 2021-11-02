@@ -14,6 +14,9 @@ Me chamo Lucas David, tenho 21 anos, sou do interior de São Paulo e estou me fo
   <img align="center" alt="Luks-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luks-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luks-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Luks-Psd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
+
   
    ![Snake animation](https://github.com/LuksDav/LuksDav/blob/output/github-contribution-grid-snake.svg)
 
@@ -25,8 +28,8 @@ Me chamo Lucas David, tenho 21 anos, sou do interior de São Paulo e estou me fo
    
   <a href="https://www.instagram.com/luksdav.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: lucasdavid10@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-david-a0382087/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://twitter.com/code_dav" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+   <a href="https://twitter.com/code_dav" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/lucas-david-a0382087/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://app.rocketseat.com.br/me/lucasdav" target="_blank"><img src="https://img.shields.io/badge/Rocketseat-7159c1?style=for-the-badge" target="_blank"></a>
    
 </div>
